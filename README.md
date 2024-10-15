@@ -36,6 +36,7 @@ A página possui as seguintes seções e funcionalidades:
 - **Serviços**: Descreve os principais serviços oferecidos, como musculação personalizada, cardio, aulas funcionais, e avaliações físicas.
 - **Planos**: Tabela comparativa de planos de assinatura, com preços e descrições detalhadas.
 - **Formulário de Matrícula**: Permite que usuários se inscrevam na academia, fornecendo dados pessoais, de contato e de treino. Inclui também opções de pagamento.
+- **Rodapé**: Direitos da empresa e informações de contato.
 
 
 ### Principais Elementos
