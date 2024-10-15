@@ -1,47 +1,44 @@
 # Academia FitTech
 
-Bem-vindo ‡ documentaÁ„o do projeto da p·gina web da fictÌcia **Academia FitTech**. Este projeto foi desenvolvido como um trabalho avaliativo do curso de An·lise e Desenvolvimento de Sistemas, pela **FAETERJ Paracambi**, na qual faÁo graduaÁ„o. 
+Bem-vindo √† documenta√ß√£o do Academia FitTech! Este projeto foi desenvolvido com o objetivo de criar uma p√°gina informativa e interativa para interessados em muscula√ß√£o e tecnologia. 
 
-## Õndice
+## Sobre o Autor
 
-1. [DescriÁ„o do Projeto](#descriÁ„o-do-projeto)
-2. [Funcionalidades](#funcionalidades)
-3. [Estrutura de Arquivos](#estrutura-de-arquivos)
-4. [Como Utilizar](#como-utilizar)
-5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-6. [Contribuindo](#contribuindo)
+Este projeto foi desenvolvido por **Rafael Marques**, estudante do curso de An√°lise e Desenvolvimento de Sistemas na FAETERJ Paracambi. Durante o desenvolvimento do projeto Academia FitTech, fui respons√°vel por todas as etapas do processo, desde a concep√ß√£o da ideia at√© a implementa√ß√£o do c√≥digo e testes. O projeto foi realizado como parte dos requisitos da disciplina **Ambiente de Edi√ß√£o Web** no 2¬∞ per√≠odo de 2024.
 
-## DescriÁ„o do Projeto
+## √çndice
 
-Este portfÛlio foi elaborado utilizando obrigatoriamente **HTML**, porÈm eu quis dar uma incrementada com **CSS**. A p·gina da **Academia FitTech** foi elaborada para ser visualmente atraente e informativa. Ela contÈm v·rias seÁıes que fornecem informaÁıes sobre a academia, serviÁos, planos de assinatura e um formul·rio para matrÌcula.
+1. [Sobre o Autor](#sobre-o-autor)
+2. [Descri√ß√£o do Projeto](#descri√ß√£o-do-projeto)
+3. [Funcionalidades](#funcionalidades)
+4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+
+## Descri√ß√£o do Projeto
+
+Este portf√≥lio foi elaborado utilizando obrigatoriamente **HTML**, por√©m eu quis dar uma incrementada com **CSS**. A p√°gina da **Academia FitTech** foi elaborada para ser visualmente atraente e informativa. Ela cont√©m v√°rias se√ß√µes que fornecem informa√ß√µes sobre a academia, servi√ßos, planos de assinatura e um formul√°rio para matr√≠cula.
 
 
 ## Funcionalidades
 
-A p·gina possui as seguintes seÁıes e funcionalidades:
+A p√°gina possui as seguintes se√ß√µes e funcionalidades:
 
-- **CabeÁalho**: Inclui o nome da academia e um menu de navegaÁ„o com links ‚ncora para diferentes seÁıes.
-- **Sobre**: Descreve a academia, seus valores e abordagem tecnolÛgica.
-- **LocalizaÁ„o**: Exibe o endereÁo da academia e um iframe integrado com o Google Maps para f·cil localizaÁ„o.
-- **Contato**: Fornece links para redes sociais  fictÌcias (Instagram, Facebook, WhatsApp) em formato de tabela.
-- **Hor·rio de Funcionamento**: Mostra os hor·rios de funcionamento da academia divididos em turnos em formato de tabela.
-- **ServiÁos**: Descreve os principais serviÁos oferecidos, como musculaÁ„o personalizada, cardio, aulas funcionais, e avaliaÁıes fÌsicas.
-- **Planos**: Tabela comparativa de planos de assinatura, com preÁos e descriÁıes detalhadas.
-- **Formul·rio de MatrÌcula**: Permite que usu·rios se inscrevam na academia, fornecendo dados pessoais, de contato e de treino. Inclui tambÈm opÁıes de pagamento.
+- **Cabe√ßalho**: Inclui o nome da academia e um menu de navega√ß√£o com links √¢ncora para diferentes se√ß√µes.
+- **Sobre**: Descreve a academia, seus valores e abordagem tecnol√≥gica.
+- **Localiza√ß√£o**: Exibe o endere√ßo da academia e um iframe integrado com o Google Maps para f√°cil localiza√ß√£o.
+- **Contato**: Fornece links para redes sociais  fict√≠cias (Instagram, Facebook, WhatsApp) em formato de tabela.
+- **Hor√°rio de Funcionamento**: Mostra os hor√°rios de funcionamento da academia divididos em turnos em formato de tabela.
+- **Servi√ßos**: Descreve os principais servi√ßos oferecidos, como muscula√ß√£o personalizada, cardio, aulas funcionais, e avalia√ß√µes f√≠sicas.
+- **Planos**: Tabela comparativa de planos de assinatura, com pre√ßos e descri√ß√µes detalhadas.
+- **Formul√°rio de Matr√≠cula**: Permite que usu√°rios se inscrevam na academia, fornecendo dados pessoais, de contato e de treino. Inclui tamb√©m op√ß√µes de pagamento.
 
 
 ### Principais Elementos
 
-1. **HTML5**: O arquivo `index.html` define a estrutura e o conte˙do da p·gina.
-2. **CSS**: A estilizaÁ„o est· embutida no arquivo HTML, na seÁ„o `<style>`, e inclui personalizaÁıes para o layout da p·gina, cores e interaÁıes como hover.
+1. **HTML5**: O arquivo `index.html` define a estrutura e o conte√∫do da p√°gina.
+2. **CSS**: A estiliza√ß√£o est√° embutida no arquivo HTML, na se√ß√£o `<style>`, e inclui personaliza√ß√µes para o layout da p√°gina, cores e intera√ß√µes como hover.
 
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Estrutura da p·gina e elementos sem‚nticos.
-- **CSS3**: EstilizaÁ„o e layout, com foco em flexbox para responsividade.
-
-
-## Autor
-
-Este projeto foi desenvolvido por **Rafael Marques** como uma demonstraÁ„o de HTML e CSS. Todos os direitos reservados ‡ **Academia FitTech** (fictÌcia).
+- **HTML5**: Estrutura da p√°gina e elementos sem√¢nticos.
+- **CSS3**: Estiliza√ß√£o e layout, com foco em flexbox para responsividade.
