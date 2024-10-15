@@ -6,12 +6,18 @@ Bem-vindo à documentação do Academia FitTech! Este projeto foi desenvolvido c
 
 Este projeto foi desenvolvido por **Rafael Marques**, estudante do curso de Análise e Desenvolvimento de Sistemas na FAETERJ Paracambi. Durante o desenvolvimento do projeto Academia FitTech, fui responsável por todas as etapas do processo, desde a concepção da ideia até a implementação do código e testes. O projeto foi realizado como parte dos requisitos da disciplina **Ambiente de Edição Web** no 2° período de 2024.
 
+### Contato:
+
+- Email: rafaelmarques.dev24@gmail.com
+- LinkedIn: [rafamarques12](https://www.linkedin.com/in/rafamarques12/)
+
 ## Índice
 
 1. [Sobre o Autor](#sobre-o-autor)
 2. [Descrição do Projeto](#descrição-do-projeto)
 3. [Funcionalidades](#funcionalidades)
-4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+4. [Principais Elementos](#principais-elementos)
+5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 ## Descrição do Projeto
 
