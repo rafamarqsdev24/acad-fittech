@@ -2,9 +2,11 @@
 
 Bem-vindo à documentação do Academia FitTech! Este projeto foi desenvolvido com o objetivo de criar uma página informativa e interativa para interessados em musculação e tecnologia. 
 
+
 ## Sobre o Autor
 
 Este projeto foi desenvolvido por **Rafael Marques**, estudante do curso de Análise e Desenvolvimento de Sistemas na FAETERJ Paracambi. Durante o desenvolvimento do projeto Academia FitTech, fui responsável por todas as etapas do processo, desde a concepção da ideia até a implementação do código e testes. O projeto foi realizado como parte dos requisitos da disciplina **Ambiente de Edição Web** no 2° período de 2024.
+
 
 ### Contato:
 
@@ -18,6 +20,7 @@ Este projeto foi desenvolvido por **Rafael Marques**, estudante do curso de Aná
 3. [Funcionalidades](#funcionalidades)
 4. [Principais Elementos](#principais-elementos)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+
 
 ## Descrição do Projeto
 
@@ -39,13 +42,13 @@ A página possui as seguintes seções e funcionalidades:
 - **Rodapé**: Direitos da empresa e informações de contato.
 
 
+## Tecnologias Utilizadas
+
+- **HTML5**: Estrutura da página e elementos semânticos.
+- **CSS3**: Estilização e layout, com foco em flexbox para responsividade.
+
 ### Principais Elementos
 
 1. **HTML5**: O arquivo `index.html` define a estrutura e o conteúdo da página.
 2. **CSS**: A estilização está embutida no arquivo HTML, na seção `<style>`, e inclui personalizações para o layout da página, cores e interações como hover.
 
-
-## Tecnologias Utilizadas
-
-- **HTML5**: Estrutura da página e elementos semânticos.
-- **CSS3**: Estilização e layout, com foco em flexbox para responsividade.
