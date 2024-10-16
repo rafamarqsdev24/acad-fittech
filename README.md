@@ -18,9 +18,9 @@ Este projeto foi desenvolvido por **Rafael Marques**, estudante do curso de Aná
 1. [Sobre o Autor](#sobre-o-autor)
 2. [Descrição do Projeto](#descrição-do-projeto)
 3. [Funcionalidades](#funcionalidades)
-4. [Principais Elementos](#principais-elementos)
-5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-
+4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+5. [Principais Elementos](#principais-elementos)
+   
 
 ## Descrição do Projeto
 
